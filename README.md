@@ -17,4 +17,6 @@ Este repositório contém o código-fonte do site oficial do projeto.
 - JavaScript
 
 
-  infanciaconectada.com.br
+Acesse o site: infanciaconectada.com.br
+Email: infanciaconectada2024@gmail.com
+Instagram: @infancia_conectada_
