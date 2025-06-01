@@ -19,6 +19,6 @@ Este repositório contém o código-fonte do site oficial do projeto.
 
 ## 🌍 Contato e informações
 
-- Acesse o site: infanciaconectada.com.br; 
-- Email: infanciaconectada2024@gmail.com;
+- Acesse o site: infanciaconectada.com.br
+- Email: infanciaconectada2024@gmail.com
 - Instagram: @infancia_conectada_ 
